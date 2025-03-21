@@ -60,15 +60,6 @@ Prepare a dataset with two folders:
 - Train the **MobileNetV2** model
 - Save the trained model in the `models/` directory
 
-
-## 🏆 Model Performance
-| Metric          | Value |
-|----------------|-------|
-| Accuracy       | 87.5% |
-| Precision      | 89.8% |
-| Recall         | 85.2% |
-| F1-Score      | 87.8% |
-
 ---
 
 ## 🤖 Technologies Used
